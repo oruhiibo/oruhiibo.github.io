@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://oruhiibo.github.io/IsK/sitemap_index.txt.gz
+Sitemap: https://oruhiibo.github.io/Mky/sitemap_index.txt.gz
+Sitemap: https://oruhiibo.github.io/gDm/sitemap_index.txt.gz
+Sitemap: https://oruhiibo.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://oruhiibo.github.io/uOF/sitemap_index.txt.gz
+Sitemap: https://oruhiibo.github.io/yli/sitemap_index.txt.gz
